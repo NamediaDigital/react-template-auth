@@ -1,6 +1,6 @@
 import React from "react";
-import SignIn from "./shared/signin";
-import SignUp from "./shared/signup";
+import SignIn from "./shared/components/signin";
+import SignUp from "./shared/components/signup";
 
 function App() {
   return (
